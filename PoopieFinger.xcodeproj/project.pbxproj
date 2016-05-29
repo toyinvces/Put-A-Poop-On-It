@@ -8,13 +8,56 @@
 
 /* Begin PBXBuildFile section */
 		DBAECECF1CB6AB30002D155F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBAECECE1CB6AB30002D155F /* AppDelegate.swift */; };
-		DBAECED11CB6AB30002D155F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBAECED01CB6AB30002D155F /* ViewController.swift */; };
 		DBAECED41CB6AB30002D155F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DBAECED21CB6AB30002D155F /* Main.storyboard */; };
 		DBAECED71CB6AB30002D155F /* PoopieFinger.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = DBAECED51CB6AB30002D155F /* PoopieFinger.xcdatamodeld */; };
 		DBAECED91CB6AB30002D155F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DBAECED81CB6AB30002D155F /* Assets.xcassets */; };
 		DBAECEDC1CB6AB30002D155F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DBAECEDA1CB6AB30002D155F /* LaunchScreen.storyboard */; };
 		DBAECEE71CB6AB30002D155F /* PoopieFingerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBAECEE61CB6AB30002D155F /* PoopieFingerTests.swift */; };
 		DBAECEF21CB6AB30002D155F /* PoopieFingerUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBAECEF11CB6AB30002D155F /* PoopieFingerUITests.swift */; };
+		DBAECF0C1CB6BC8C002D155F /* pee.png in Resources */ = {isa = PBXBuildFile; fileRef = DBAECF0B1CB6BC8C002D155F /* pee.png */; };
+		DBAECF121CB6D085002D155F /* fingersBackground.png in Resources */ = {isa = PBXBuildFile; fileRef = DBAECF111CB6D085002D155F /* fingersBackground.png */; };
+		DBAECF141CB6D74F002D155F /* actionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBAECF131CB6D74F002D155F /* actionViewController.swift */; };
+		DBAECF221CB6E46B002D155F /* BathroomBack.png in Resources */ = {isa = PBXBuildFile; fileRef = DBAECF211CB6E46B002D155F /* BathroomBack.png */; };
+		DBAECF271CB6EEF9002D155F /* SelectionController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBAECF261CB6EEF9002D155F /* SelectionController.swift */; };
+		DBAECF2A1CB6F14D002D155F /* Bathroom.png in Resources */ = {isa = PBXBuildFile; fileRef = DBAECF291CB6F14D002D155F /* Bathroom.png */; };
+		DBAECF2C1CB6FB52002D155F /* SelectionControllerViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBAECF2B1CB6FB52002D155F /* SelectionControllerViewCell.swift */; };
+		DBAECF2E1CB7F855002D155F /* General.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBAECF2D1CB7F855002D155F /* General.swift */; };
+		DBAECF301CB80DF8002D155F /* Side WalkBack.png in Resources */ = {isa = PBXBuildFile; fileRef = DBAECF2F1CB80DF8002D155F /* Side WalkBack.png */; };
+		DBAECF351CB80F27002D155F /* BathroomIcon.png in Resources */ = {isa = PBXBuildFile; fileRef = DBAECF341CB80F27002D155F /* BathroomIcon.png */; };
+		DBAECF371CB81002002D155F /* Side Walk.png in Resources */ = {isa = PBXBuildFile; fileRef = DBAECF361CB81002002D155F /* Side Walk.png */; };
+		DBAECF391CB81047002D155F /* Side WalkIcon.png in Resources */ = {isa = PBXBuildFile; fileRef = DBAECF381CB81047002D155F /* Side WalkIcon.png */; };
+		DBAECF3E1CBBE468002D155F /* New YorkIcon.png in Resources */ = {isa = PBXBuildFile; fileRef = DBAECF3D1CBBE468002D155F /* New YorkIcon.png */; };
+		DBAECF401CBBE472002D155F /* New York.png in Resources */ = {isa = PBXBuildFile; fileRef = DBAECF3F1CBBE472002D155F /* New York.png */; };
+		DBAECF441CBBE4C8002D155F /* TokyoIcon.png in Resources */ = {isa = PBXBuildFile; fileRef = DBAECF431CBBE4C8002D155F /* TokyoIcon.png */; };
+		DBAECF461CBBE4E0002D155F /* Tokyo.png in Resources */ = {isa = PBXBuildFile; fileRef = DBAECF451CBBE4E0002D155F /* Tokyo.png */; };
+		DBAECF481CBBE4F4002D155F /* TokyoBack.png in Resources */ = {isa = PBXBuildFile; fileRef = DBAECF471CBBE4F4002D155F /* TokyoBack.png */; };
+		DBAECF4A1CBBE683002D155F /* New YorkBack.png in Resources */ = {isa = PBXBuildFile; fileRef = DBAECF491CBBE683002D155F /* New YorkBack.png */; };
+		DBAECF4D1CBBE7C7002D155F /* poo1.png in Resources */ = {isa = PBXBuildFile; fileRef = DBAECF4C1CBBE7C7002D155F /* poo1.png */; };
+		DBAECF4F1CBBE7CF002D155F /* poo2.png in Resources */ = {isa = PBXBuildFile; fileRef = DBAECF4E1CBBE7CF002D155F /* poo2.png */; };
+		DBAECF511CBBE7D7002D155F /* poo3.png in Resources */ = {isa = PBXBuildFile; fileRef = DBAECF501CBBE7D7002D155F /* poo3.png */; };
+		DBAECF5C1CBC1FA8002D155F /* backButton.png in Resources */ = {isa = PBXBuildFile; fileRef = DBAECF591CBC1FA8002D155F /* backButton.png */; };
+		DBAECF5D1CBC1FA8002D155F /* CameraButton.png in Resources */ = {isa = PBXBuildFile; fileRef = DBAECF5A1CBC1FA8002D155F /* CameraButton.png */; };
+		DBAECF5E1CBC1FA8002D155F /* ShareButton2.png in Resources */ = {isa = PBXBuildFile; fileRef = DBAECF5B1CBC1FA8002D155F /* ShareButton2.png */; };
+		DBAECF611CBC2A49002D155F /* peeButton.png in Resources */ = {isa = PBXBuildFile; fileRef = DBAECF5F1CBC2A49002D155F /* peeButton.png */; };
+		DBAECF621CBC2A49002D155F /* pooButton.png in Resources */ = {isa = PBXBuildFile; fileRef = DBAECF601CBC2A49002D155F /* pooButton.png */; };
+		DBAECF6E1CBC2DB4002D155F /* fart1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = DBAECF6A1CBC2DB4002D155F /* fart1.mp3 */; };
+		DBAECF6F1CBC2DB4002D155F /* fart2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = DBAECF6B1CBC2DB4002D155F /* fart2.mp3 */; };
+		DBAECF701CBC2DB4002D155F /* fart3.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = DBAECF6C1CBC2DB4002D155F /* fart3.mp3 */; };
+		DBAECF711CBC2DB4002D155F /* pee.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = DBAECF6D1CBC2DB4002D155F /* pee.mp3 */; };
+		DBAECF731CBC34E9002D155F /* GrassIcon.png in Resources */ = {isa = PBXBuildFile; fileRef = DBAECF721CBC34E9002D155F /* GrassIcon.png */; };
+		DBAECF791CBC36F7002D155F /* Potty PadIcon.png in Resources */ = {isa = PBXBuildFile; fileRef = DBAECF781CBC36F7002D155F /* Potty PadIcon.png */; };
+		DBAECF7F1CBC3804002D155F /* GrassBack.png in Resources */ = {isa = PBXBuildFile; fileRef = DBAECF7E1CBC3804002D155F /* GrassBack.png */; };
+		DBAECF831CBC38D3002D155F /* Grass.png in Resources */ = {isa = PBXBuildFile; fileRef = DBAECF821CBC38D3002D155F /* Grass.png */; };
+		DBAECF851CBC38F6002D155F /* Potty Pad.png in Resources */ = {isa = PBXBuildFile; fileRef = DBAECF841CBC38F6002D155F /* Potty Pad.png */; };
+		DBAECF871CBC390B002D155F /* Potty PadBack.png in Resources */ = {isa = PBXBuildFile; fileRef = DBAECF861CBC390B002D155F /* Potty PadBack.png */; };
+		DBC3F09C1CF6334500A4833C /* Blue Goat.png in Resources */ = {isa = PBXBuildFile; fileRef = DBC3F0981CF6334500A4833C /* Blue Goat.png */; };
+		DBC3F09D1CF6334500A4833C /* dk goat copy.png in Resources */ = {isa = PBXBuildFile; fileRef = DBC3F0991CF6334500A4833C /* dk goat copy.png */; };
+		DBC3F09E1CF6334500A4833C /* grew goat.png in Resources */ = {isa = PBXBuildFile; fileRef = DBC3F09A1CF6334500A4833C /* grew goat.png */; };
+		DBC3F09F1CF6334500A4833C /* white goat.png in Resources */ = {isa = PBXBuildFile; fileRef = DBC3F09B1CF6334500A4833C /* white goat.png */; };
+		DBD556DE1CECF44600BC535F /* poo4.png in Resources */ = {isa = PBXBuildFile; fileRef = DBD556DB1CECF44600BC535F /* poo4.png */; };
+		DBD556DF1CECF44600BC535F /* poo5.png in Resources */ = {isa = PBXBuildFile; fileRef = DBD556DC1CECF44600BC535F /* poo5.png */; };
+		DBD556E01CECF44600BC535F /* poo6.png in Resources */ = {isa = PBXBuildFile; fileRef = DBD556DD1CECF44600BC535F /* poo6.png */; };
+		DBD556E21CECFFBE00BC535F /* AlbumButton.png in Resources */ = {isa = PBXBuildFile; fileRef = DBD556E11CECFFBE00BC535F /* AlbumButton.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -37,7 +80,6 @@
 /* Begin PBXFileReference section */
 		DBAECECB1CB6AB2F002D155F /* PoopieFinger.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PoopieFinger.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DBAECECE1CB6AB30002D155F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		DBAECED01CB6AB30002D155F /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		DBAECED31CB6AB30002D155F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		DBAECED61CB6AB30002D155F /* PoopieFinger.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = PoopieFinger.xcdatamodel; sourceTree = "<group>"; };
 		DBAECED81CB6AB30002D155F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -49,6 +91,50 @@
 		DBAECEED1CB6AB30002D155F /* PoopieFingerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PoopieFingerUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		DBAECEF11CB6AB30002D155F /* PoopieFingerUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PoopieFingerUITests.swift; sourceTree = "<group>"; };
 		DBAECEF31CB6AB30002D155F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DBAECF0B1CB6BC8C002D155F /* pee.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pee.png; sourceTree = "<group>"; };
+		DBAECF111CB6D085002D155F /* fingersBackground.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = fingersBackground.png; sourceTree = "<group>"; };
+		DBAECF131CB6D74F002D155F /* actionViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = actionViewController.swift; sourceTree = "<group>"; };
+		DBAECF211CB6E46B002D155F /* BathroomBack.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BathroomBack.png; sourceTree = "<group>"; };
+		DBAECF261CB6EEF9002D155F /* SelectionController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = SelectionController.swift; path = ../SelectionController.swift; sourceTree = "<group>"; };
+		DBAECF291CB6F14D002D155F /* Bathroom.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Bathroom.png; sourceTree = "<group>"; };
+		DBAECF2B1CB6FB52002D155F /* SelectionControllerViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SelectionControllerViewCell.swift; sourceTree = "<group>"; };
+		DBAECF2D1CB7F855002D155F /* General.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = General.swift; sourceTree = "<group>"; };
+		DBAECF2F1CB80DF8002D155F /* Side WalkBack.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Side WalkBack.png"; sourceTree = "<group>"; };
+		DBAECF341CB80F27002D155F /* BathroomIcon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BathroomIcon.png; sourceTree = "<group>"; };
+		DBAECF361CB81002002D155F /* Side Walk.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Side Walk.png"; sourceTree = "<group>"; };
+		DBAECF381CB81047002D155F /* Side WalkIcon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Side WalkIcon.png"; sourceTree = "<group>"; };
+		DBAECF3D1CBBE468002D155F /* New YorkIcon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "New YorkIcon.png"; sourceTree = "<group>"; };
+		DBAECF3F1CBBE472002D155F /* New York.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "New York.png"; sourceTree = "<group>"; };
+		DBAECF431CBBE4C8002D155F /* TokyoIcon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = TokyoIcon.png; sourceTree = "<group>"; };
+		DBAECF451CBBE4E0002D155F /* Tokyo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Tokyo.png; sourceTree = "<group>"; };
+		DBAECF471CBBE4F4002D155F /* TokyoBack.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = TokyoBack.png; sourceTree = "<group>"; };
+		DBAECF491CBBE683002D155F /* New YorkBack.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "New YorkBack.png"; sourceTree = "<group>"; };
+		DBAECF4C1CBBE7C7002D155F /* poo1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = poo1.png; sourceTree = "<group>"; };
+		DBAECF4E1CBBE7CF002D155F /* poo2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = poo2.png; sourceTree = "<group>"; };
+		DBAECF501CBBE7D7002D155F /* poo3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = poo3.png; sourceTree = "<group>"; };
+		DBAECF591CBC1FA8002D155F /* backButton.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = backButton.png; sourceTree = "<group>"; };
+		DBAECF5A1CBC1FA8002D155F /* CameraButton.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = CameraButton.png; sourceTree = "<group>"; };
+		DBAECF5B1CBC1FA8002D155F /* ShareButton2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ShareButton2.png; sourceTree = "<group>"; };
+		DBAECF5F1CBC2A49002D155F /* peeButton.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = peeButton.png; sourceTree = "<group>"; };
+		DBAECF601CBC2A49002D155F /* pooButton.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pooButton.png; sourceTree = "<group>"; };
+		DBAECF6A1CBC2DB4002D155F /* fart1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = fart1.mp3; sourceTree = "<group>"; };
+		DBAECF6B1CBC2DB4002D155F /* fart2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = fart2.mp3; sourceTree = "<group>"; };
+		DBAECF6C1CBC2DB4002D155F /* fart3.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = fart3.mp3; sourceTree = "<group>"; };
+		DBAECF6D1CBC2DB4002D155F /* pee.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = pee.mp3; sourceTree = "<group>"; };
+		DBAECF721CBC34E9002D155F /* GrassIcon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = GrassIcon.png; sourceTree = "<group>"; };
+		DBAECF781CBC36F7002D155F /* Potty PadIcon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Potty PadIcon.png"; sourceTree = "<group>"; };
+		DBAECF7E1CBC3804002D155F /* GrassBack.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = GrassBack.png; sourceTree = "<group>"; };
+		DBAECF821CBC38D3002D155F /* Grass.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Grass.png; sourceTree = "<group>"; };
+		DBAECF841CBC38F6002D155F /* Potty Pad.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Potty Pad.png"; sourceTree = "<group>"; };
+		DBAECF861CBC390B002D155F /* Potty PadBack.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Potty PadBack.png"; sourceTree = "<group>"; };
+		DBC3F0981CF6334500A4833C /* Blue Goat.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Blue Goat.png"; sourceTree = "<group>"; };
+		DBC3F0991CF6334500A4833C /* dk goat copy.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "dk goat copy.png"; sourceTree = "<group>"; };
+		DBC3F09A1CF6334500A4833C /* grew goat.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "grew goat.png"; sourceTree = "<group>"; };
+		DBC3F09B1CF6334500A4833C /* white goat.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "white goat.png"; sourceTree = "<group>"; };
+		DBD556DB1CECF44600BC535F /* poo4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = poo4.png; sourceTree = "<group>"; };
+		DBD556DC1CECF44600BC535F /* poo5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = poo5.png; sourceTree = "<group>"; };
+		DBD556DD1CECF44600BC535F /* poo6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = poo6.png; sourceTree = "<group>"; };
+		DBD556E11CECFFBE00BC535F /* AlbumButton.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = AlbumButton.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,8 +185,13 @@
 		DBAECECD1CB6AB2F002D155F /* PoopieFinger */ = {
 			isa = PBXGroup;
 			children = (
+				DBAECF631CBC2B53002D155F /* Sounds */,
+				DBAECF041CB6B891002D155F /* Graphics */,
 				DBAECECE1CB6AB30002D155F /* AppDelegate.swift */,
-				DBAECED01CB6AB30002D155F /* ViewController.swift */,
+				DBAECF2D1CB7F855002D155F /* General.swift */,
+				DBAECF261CB6EEF9002D155F /* SelectionController.swift */,
+				DBAECF2B1CB6FB52002D155F /* SelectionControllerViewCell.swift */,
+				DBAECF131CB6D74F002D155F /* actionViewController.swift */,
 				DBAECED21CB6AB30002D155F /* Main.storyboard */,
 				DBAECED81CB6AB30002D155F /* Assets.xcassets */,
 				DBAECEDA1CB6AB30002D155F /* LaunchScreen.storyboard */,
@@ -126,6 +217,100 @@
 				DBAECEF31CB6AB30002D155F /* Info.plist */,
 			);
 			path = PoopieFingerUITests;
+			sourceTree = "<group>";
+		};
+		DBAECF041CB6B891002D155F /* Graphics */ = {
+			isa = PBXGroup;
+			children = (
+				DBC3F0981CF6334500A4833C /* Blue Goat.png */,
+				DBC3F0991CF6334500A4833C /* dk goat copy.png */,
+				DBC3F09A1CF6334500A4833C /* grew goat.png */,
+				DBC3F09B1CF6334500A4833C /* white goat.png */,
+				DBAECF521CBBF467002D155F /* Buttons */,
+				DBAECF4B1CBBE747002D155F /* poos */,
+				DBAECF331CB80F0C002D155F /* Icons */,
+				DBAECF281CB6F12C002D155F /* Places */,
+				DBAECF251CB6ED43002D155F /* Backgrounds */,
+			);
+			name = Graphics;
+			sourceTree = "<group>";
+		};
+		DBAECF251CB6ED43002D155F /* Backgrounds */ = {
+			isa = PBXGroup;
+			children = (
+				DBAECF861CBC390B002D155F /* Potty PadBack.png */,
+				DBAECF7E1CBC3804002D155F /* GrassBack.png */,
+				DBAECF471CBBE4F4002D155F /* TokyoBack.png */,
+				DBAECF211CB6E46B002D155F /* BathroomBack.png */,
+				DBAECF491CBBE683002D155F /* New YorkBack.png */,
+				DBAECF2F1CB80DF8002D155F /* Side WalkBack.png */,
+				DBAECF111CB6D085002D155F /* fingersBackground.png */,
+			);
+			name = Backgrounds;
+			sourceTree = "<group>";
+		};
+		DBAECF281CB6F12C002D155F /* Places */ = {
+			isa = PBXGroup;
+			children = (
+				DBAECF821CBC38D3002D155F /* Grass.png */,
+				DBAECF841CBC38F6002D155F /* Potty Pad.png */,
+				DBAECF291CB6F14D002D155F /* Bathroom.png */,
+				DBAECF361CB81002002D155F /* Side Walk.png */,
+				DBAECF3F1CBBE472002D155F /* New York.png */,
+				DBAECF451CBBE4E0002D155F /* Tokyo.png */,
+			);
+			name = Places;
+			sourceTree = "<group>";
+		};
+		DBAECF331CB80F0C002D155F /* Icons */ = {
+			isa = PBXGroup;
+			children = (
+				DBAECF781CBC36F7002D155F /* Potty PadIcon.png */,
+				DBAECF341CB80F27002D155F /* BathroomIcon.png */,
+				DBAECF381CB81047002D155F /* Side WalkIcon.png */,
+				DBAECF3D1CBBE468002D155F /* New YorkIcon.png */,
+				DBAECF721CBC34E9002D155F /* GrassIcon.png */,
+				DBAECF431CBBE4C8002D155F /* TokyoIcon.png */,
+			);
+			name = Icons;
+			sourceTree = "<group>";
+		};
+		DBAECF4B1CBBE747002D155F /* poos */ = {
+			isa = PBXGroup;
+			children = (
+				DBAECF0B1CB6BC8C002D155F /* pee.png */,
+				DBAECF4C1CBBE7C7002D155F /* poo1.png */,
+				DBAECF4E1CBBE7CF002D155F /* poo2.png */,
+				DBAECF501CBBE7D7002D155F /* poo3.png */,
+				DBD556DB1CECF44600BC535F /* poo4.png */,
+				DBD556DC1CECF44600BC535F /* poo5.png */,
+				DBD556DD1CECF44600BC535F /* poo6.png */,
+			);
+			name = poos;
+			sourceTree = "<group>";
+		};
+		DBAECF521CBBF467002D155F /* Buttons */ = {
+			isa = PBXGroup;
+			children = (
+				DBD556E11CECFFBE00BC535F /* AlbumButton.png */,
+				DBAECF591CBC1FA8002D155F /* backButton.png */,
+				DBAECF5A1CBC1FA8002D155F /* CameraButton.png */,
+				DBAECF5B1CBC1FA8002D155F /* ShareButton2.png */,
+				DBAECF5F1CBC2A49002D155F /* peeButton.png */,
+				DBAECF601CBC2A49002D155F /* pooButton.png */,
+			);
+			name = Buttons;
+			sourceTree = "<group>";
+		};
+		DBAECF631CBC2B53002D155F /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				DBAECF6A1CBC2DB4002D155F /* fart1.mp3 */,
+				DBAECF6B1CBC2DB4002D155F /* fart2.mp3 */,
+				DBAECF6C1CBC2DB4002D155F /* fart3.mp3 */,
+				DBAECF6D1CBC2DB4002D155F /* pee.mp3 */,
+			);
+			name = Sounds;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -196,6 +381,7 @@
 				TargetAttributes = {
 					DBAECECA1CB6AB2F002D155F = {
 						CreatedOnToolsVersion = 7.3;
+						DevelopmentTeam = LP3XCQ976A;
 					};
 					DBAECEE11CB6AB30002D155F = {
 						CreatedOnToolsVersion = 7.3;
@@ -232,9 +418,49 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DBD556DF1CECF44600BC535F /* poo5.png in Resources */,
+				DBD556E01CECF44600BC535F /* poo6.png in Resources */,
+				DBAECF481CBBE4F4002D155F /* TokyoBack.png in Resources */,
+				DBC3F09F1CF6334500A4833C /* white goat.png in Resources */,
+				DBAECF221CB6E46B002D155F /* BathroomBack.png in Resources */,
+				DBAECF871CBC390B002D155F /* Potty PadBack.png in Resources */,
+				DBAECF791CBC36F7002D155F /* Potty PadIcon.png in Resources */,
+				DBAECF711CBC2DB4002D155F /* pee.mp3 in Resources */,
+				DBAECF4D1CBBE7C7002D155F /* poo1.png in Resources */,
+				DBAECF441CBBE4C8002D155F /* TokyoIcon.png in Resources */,
+				DBAECF391CB81047002D155F /* Side WalkIcon.png in Resources */,
+				DBAECF301CB80DF8002D155F /* Side WalkBack.png in Resources */,
+				DBAECF0C1CB6BC8C002D155F /* pee.png in Resources */,
+				DBAECF461CBBE4E0002D155F /* Tokyo.png in Resources */,
+				DBAECF5E1CBC1FA8002D155F /* ShareButton2.png in Resources */,
+				DBAECF3E1CBBE468002D155F /* New YorkIcon.png in Resources */,
+				DBAECF2A1CB6F14D002D155F /* Bathroom.png in Resources */,
+				DBAECF351CB80F27002D155F /* BathroomIcon.png in Resources */,
 				DBAECEDC1CB6AB30002D155F /* LaunchScreen.storyboard in Resources */,
+				DBAECF4F1CBBE7CF002D155F /* poo2.png in Resources */,
+				DBAECF621CBC2A49002D155F /* pooButton.png in Resources */,
+				DBAECF611CBC2A49002D155F /* peeButton.png in Resources */,
+				DBAECF401CBBE472002D155F /* New York.png in Resources */,
+				DBD556E21CECFFBE00BC535F /* AlbumButton.png in Resources */,
+				DBAECF4A1CBBE683002D155F /* New YorkBack.png in Resources */,
+				DBAECF7F1CBC3804002D155F /* GrassBack.png in Resources */,
 				DBAECED91CB6AB30002D155F /* Assets.xcassets in Resources */,
+				DBAECF511CBBE7D7002D155F /* poo3.png in Resources */,
+				DBAECF831CBC38D3002D155F /* Grass.png in Resources */,
+				DBC3F09E1CF6334500A4833C /* grew goat.png in Resources */,
+				DBAECF731CBC34E9002D155F /* GrassIcon.png in Resources */,
+				DBC3F09D1CF6334500A4833C /* dk goat copy.png in Resources */,
+				DBD556DE1CECF44600BC535F /* poo4.png in Resources */,
 				DBAECED41CB6AB30002D155F /* Main.storyboard in Resources */,
+				DBAECF851CBC38F6002D155F /* Potty Pad.png in Resources */,
+				DBAECF6F1CBC2DB4002D155F /* fart2.mp3 in Resources */,
+				DBAECF121CB6D085002D155F /* fingersBackground.png in Resources */,
+				DBAECF701CBC2DB4002D155F /* fart3.mp3 in Resources */,
+				DBC3F09C1CF6334500A4833C /* Blue Goat.png in Resources */,
+				DBAECF371CB81002002D155F /* Side Walk.png in Resources */,
+				DBAECF5D1CBC1FA8002D155F /* CameraButton.png in Resources */,
+				DBAECF5C1CBC1FA8002D155F /* backButton.png in Resources */,
+				DBAECF6E1CBC2DB4002D155F /* fart1.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -259,8 +485,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				DBAECED11CB6AB30002D155F /* ViewController.swift in Sources */,
+				DBAECF2C1CB6FB52002D155F /* SelectionControllerViewCell.swift in Sources */,
 				DBAECED71CB6AB30002D155F /* PoopieFinger.xcdatamodeld in Sources */,
+				DBAECF271CB6EEF9002D155F /* SelectionController.swift in Sources */,
+				DBAECF141CB6D74F002D155F /* actionViewController.swift in Sources */,
+				DBAECF2E1CB7F855002D155F /* General.swift in Sources */,
 				DBAECECF1CB6AB30002D155F /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -405,10 +634,14 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = PoopieFinger/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = Ramirez.PoopieFinger;
+				PRODUCT_BUNDLE_IDENTIFIER = Lund.PutAGoatOnIt;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -416,10 +649,14 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = PoopieFinger/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = Ramirez.PoopieFinger;
+				PRODUCT_BUNDLE_IDENTIFIER = Lund.PutAGoatOnIt;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
@@ -488,6 +725,7 @@
 				DBAECEF81CB6AB30002D155F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		DBAECEF91CB6AB30002D155F /* Build configuration list for PBXNativeTarget "PoopieFingerTests" */ = {
 			isa = XCConfigurationList;
@@ -496,6 +734,7 @@
 				DBAECEFB1CB6AB30002D155F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		DBAECEFC1CB6AB30002D155F /* Build configuration list for PBXNativeTarget "PoopieFingerUITests" */ = {
 			isa = XCConfigurationList;
@@ -504,6 +743,7 @@
 				DBAECEFE1CB6AB30002D155F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
